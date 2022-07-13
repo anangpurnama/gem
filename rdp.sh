@@ -110,6 +110,10 @@ chmod +x gp.ascr
 chmod +x gpclick.ascr
 wget https://github.com/anangpurnama/gem/raw/main/run.sh
 chmod +x run.sh
+wget https://github.com/anangpurnama/gem/raw/main/run2.sh
+chmod +x run2.sh
+
+snap install termdown
 
 
 echo ======
